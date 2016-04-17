@@ -36,4 +36,4 @@
 <img src="images/domain_mapping.jpg">
 
 * Sequence Diagram:
-<img src="images/Sequence_Diagram.jpg"
+<img src="images/Sequence_Diagram.jpg">
