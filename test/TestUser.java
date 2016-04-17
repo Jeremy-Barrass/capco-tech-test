@@ -2,10 +2,11 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class TestUser {
-	User spike = new User("Spike");
+	String name = "Spike";
+	User spike = new User(name);
 
 	@Test
 	public void testUserName() {
-		assertEquals(spike.getUserName(), "Spike");
+		assertEquals(spike.getUserName(), name);
 	}
 }
