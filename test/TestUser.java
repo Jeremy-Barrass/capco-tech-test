@@ -7,6 +7,7 @@ public class TestUser {
 
 	@Test
 	public void testUserName() {
+		System.out.print("Username assignment functioning: ");
 		assertEquals(spike.getUserName(), name);
 	}
 }
