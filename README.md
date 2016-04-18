@@ -1,5 +1,7 @@
 # The Java Social Network
 
+**Unmerged Branch:** _user_
+
 ## Instructions:
 
 * please provide a solution in Java, as a GitHub link to Spike (on Slack) by 10am Monday
@@ -31,6 +33,8 @@
 **Following**: *Leo* can subscribe to *Spike* and *Nikesh's* timelines, and view an aggregated list of all subscriptions  
 
 ## Initial Design:
+
+Unfortunately, I commited late to attempting this tech test, and so have not got as far as I would have liked.  However, my initial design ideas are presented below.
 
 * Domain Mapping:
 <img src="images/domain_mapping.jpg">
