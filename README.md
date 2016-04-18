@@ -34,7 +34,7 @@
 
 ## Initial Design:
 
-Unfortunately, I commited late to attempting this tech test, and so have not got as far as I would have liked.  However, my initial design ideas are presented below.
+Unfortunately, I commited late to attempting this tech test, and so have not got as far as I would have liked.  My _user_ branch remains unmerged, as I have not reached a point where I am satisfied the feature is complete.  However, my initial design ideas are presented below.
 
 * Domain Mapping:
 <img src="images/domain_mapping.jpg">
